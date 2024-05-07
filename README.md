@@ -1,1 +1,1 @@
-![image](https://github.com/batuhanep/Data-Science-and-Analytics-Python-Practices-Projects-and-Notes-/assets/111178652/ce1a8cc0-d201-4f03-ad8e-4b9c7fa87a14)
+![Başlıksız](https://github.com/batuhanep/Data-Science-Projects/assets/111178652/984616cb-22f0-4b55-82e9-5c651ca17cb1)
